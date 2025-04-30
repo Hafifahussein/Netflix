@@ -1,7 +1,3 @@
-Thanks for the details! Here's your completed README:
-
----
-
 # Netflix  
 #### A web-based movie browsing and trailer-watching application, May 1, 2025  
 #### By **Hafifa Hussein**
@@ -33,5 +29,3 @@ For questions, suggestions, or bug reports, please contact:
 Copyright (c) 2025 **Hafifa Hussein**
 
 ---
-
-Would you like me to save this as a file or help you with anything else?
