@@ -5,6 +5,17 @@
 ## Description  
 Netflix is a web application that allows users to browse through a selection of movies and watch trailers. It aims to provide an easy-to-use interface for discovering movies and previewing them via trailers. Users can explore movies by browsing categories and enjoying previews before making a decision.
 
+
+## Features
+
+- Browse trending content
+- Separate sections for movies and TV shows
+- Add new content through a form
+- Search functionality
+- Responsive design
+- Data persistence using localStorage
+
+
 ## Setup/Installation Requirements  
 * No backend or server setup required  
 * Open the `index.html` file in your web browser  
